@@ -1,0 +1,14 @@
+Pervaya stroka
+He is bastard of Ned Stark
+this lesson okTest 1 stroka
+Test 2 stroka
+John Snow is King
+You know nothing
+
+John Snow is King
+You know nothing
+John Snow is King
+You know nothing
+
+sudo apt install tesseract-ocr
+sudo apt install libtesseract-dev
